@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#wget -q "--no-check-certificate" https://raw.githubusercontent.com/tar1971/tar1971/main/installer.sh -O - | /bin/sh
+# wget -q "--no-check-certificate" https://raw.githubusercontent.com/tar1971/tar1971/main/installer.sh -O - | /bin/sh
 
 ##########################################
 version=3.2.3
